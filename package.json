@@ -1,6 +1,6 @@
 {
   "name": "default",
-  "description": "prototype object to make object from defoult object",
+  "description": "extend object from default object or if it is undefined return default one",
   "version": "0.1.0",
   "homepage": "https://github.com/safareli/default",
   "author": {
