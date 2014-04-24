@@ -1,4 +1,4 @@
-# default [![Build Status](http://img.shields.io/travis/Safareli/default.svg)](http://travis-ci.org/Safareli/default) [![NPM version](https://badge-me.herokuapp.com/api/npm/default.png)](http://badges.enytc.com/for/npm/default) [![Code Climate](https://codeclimate.com/github/Safareli/default.png)](https://codeclimate.com/github/Safareli/default)
+# default [![Build Status](http://img.shields.io/travis/safareli/default.svg)](http://travis-ci.org/safareli/default) [![NPM version](https://badge-me.herokuapp.com/api/npm/default.png)](http://badges.enytc.com/for/npm/default) [![Code Climate](https://codeclimate.com/github/safareli/default.png)](https://codeclimate.com/github/safareli/default)
 
 > extend object from default object or if it is undefined return default one
 
