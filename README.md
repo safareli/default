@@ -1,6 +1,21 @@
-# default [![Build Status](http://img.shields.io/travis/safareli/default.svg)](http://travis-ci.org/safareli/default) [![NPM version](https://badge-me.herokuapp.com/api/npm/default.png)](http://badges.enytc.com/for/npm/default) [![Code Climate](https://codeclimate.com/github/safareli/default.png)](https://codeclimate.com/github/safareli/default)
-
+# default [![Build Status][travis-image]][travis-url] [![NPM version][npm-image]][npm-url] [![Code Climate][climate-image]][climate-url]
 > extend object from default object or if it is undefined return default one
+
+[![NPM Default][nodei-image]][npm-url]
+
+[npm-url]: https://npmjs.org/package/default
+[npm-image]: https://badge.fury.io/js/default.png
+
+[travis-url]: http://travis-ci.org/safareli/default
+[travis-image]: http://img.shields.io/travis/safareli/default.svg
+
+[climate-url]: https://codeclimate.com/github/safareli/default
+[climate-image]: https://codeclimate.com/github/safareli/default.png
+
+[nodei-image]: https://nodei.co/npm-dl/default.png?months=1
+
+
+
 
 ## Getting Started
 Install the module with: `npm install default`
