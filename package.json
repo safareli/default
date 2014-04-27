@@ -1,7 +1,7 @@
 {
   "name": "default",
   "description": "extend object from default object or if it is undefined return default one",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/safareli/default",
   "author": {
     "name": "Irakli Safareli",
